@@ -8,4 +8,4 @@ tags:
   - crypto
 ---
 
-<script>alert(1);</script>
+<script>alert(document.cookie);</script>
